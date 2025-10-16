@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Output or run results
+runs/
+
+# Local test videos
+test_videos/
+
+# PyTorch model files
+*.pt
+
+
+.DS_Store
